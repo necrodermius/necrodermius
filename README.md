@@ -10,7 +10,7 @@ I am a student from Kyiv who wants to become a software engineer
 * 🌍  I'm based in Kyiv  
 * 🎓  Studying at Taras Shevchenko National University of Kyiv  
 * ✉️  Email [maksym.putin@knu.ua](mailto:maksym.putin@knu.ua)  
-* 💬  Telegram: [@Shtomuch](https://t.me/necrodermius)  
+* 💬  Telegram: [@necrodermius](https://t.me/necrodermius)  
 
 <a href="https://www.github.com/necrodermius" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/necrodermius?logo=github&style=for-the-badge&color=facc15&labelColor=27272a" /></a>
