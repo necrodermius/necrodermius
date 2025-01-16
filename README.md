@@ -31,11 +31,11 @@ src="https://img.shields.io/github/followers/necrodermius?logo=github&style=for-
 <div style="display: flex; gap: 10px; justify-content: center;">
 
 <a href="http://www.github.com/necrodermius">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shtomuch&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="Shtomuch's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=necrodermius&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="Shtomuch's GitHub stats" />
 </a>
 
 <a href="http://www.github.com/necrodermius">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shtomuch&stroke=ffffff&background=27272a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=necrodermius&stroke=ffffff&background=27272a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
 </div>
